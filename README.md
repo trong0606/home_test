@@ -1,5 +1,5 @@
 # home_assignment
-# Weather Search App
+Weather Search App
 
 This is a small demo app designed to search for weather information for a location using the AccuWeather API. Users can enter the location or zip code of a place and click the search button to retrieve hourly updated information.
 
